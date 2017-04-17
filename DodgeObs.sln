@@ -1,7 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
+# Visual Studio 2015
 
-Project("{C1C7DB03-1E5C-2EBC-683F-12ECDCF275E7}") = "Simple Obstacle Awarness AI", "Assembly-CSharp-vs.csproj", "{C1D4EAA9-41C6-02D6-E9A2-A247CE945129}"
+Project("{C1C7DB03-1E5C-2EBC-683F-12ECDCF275E7}") = "Angry Runner", "Assembly-CSharp-vs.csproj", "{C1D4EAA9-41C6-02D6-E9A2-A247CE945129}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
